@@ -40,9 +40,22 @@
 	color: #c3c7c2;
 }
 
+.top-banner-wrapp img {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+}
+.top-banner-wrapp h5.position {
+    font-size: 18px;
+}
 
 @keyframes changeOpacity {
   0% {
     opacity: 0; }
   100% {
     opacity: 1; } }
+    
+
+.contact-details h5 {
+    margin-bottom: 5px;
+}
